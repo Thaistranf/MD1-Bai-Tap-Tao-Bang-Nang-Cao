@@ -1,0 +1,15 @@
+caption {
+    font-weight: bold;
+    color: blue;
+    font-size: xx-large;
+}
+table, td{
+    font-weight: bold;
+    font-size: x-large;
+    border: 2px solid darkgray;
+    border-collapse: collapse;
+    width: 700px;
+    height: 40px;
+    text-align: center;
+    padding: 1px;
+}
